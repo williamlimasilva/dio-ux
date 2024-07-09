@@ -57,7 +57,7 @@ Desafio de projeto
 Intermediário
 1 hrs
 
-## Se Tornando um(a) UX/UI Designer Completo(a)
+## Se Tornando um UX/UI Designer Completo
 
 Curso
 - Estratégias e Mercado UX/UI Designer
