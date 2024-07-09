@@ -18,4 +18,4 @@ Lembre-se de que assumir o protagonismo e de criar um portfólio durante essa jo
 
 Bons estudos! 
 
-## Link da entrega do desafio
+## Link Figma
