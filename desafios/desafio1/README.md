@@ -18,6 +18,4 @@ Lembre-se de que assumir o protagonismo e de criar um portfólio durante essa jo
 
 Bons estudos! 
 
-## Link da entrega do desafio
-
-https://www.figma.com/design/D0SahZJnhRgVcehMiyveGl/UX-UI-Course-DIO-First-Project?node-id=0-1&t=kLNyz579zMUsTidR-0
+## [Link Figma](https://www.figma.com/design/D0SahZJnhRgVcehMiyveGl/UX-UI-Course-DIO-First-Project?node-id=0-1&t=kLNyz579zMUsTidR-0)
